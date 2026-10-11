@@ -1,0 +1,13 @@
+---
+description: Commit and push every project change to GitHub
+alwaysApply: true
+---
+
+# Push changes immediately
+
+After each completed code or docs change in this project, commit and push to `origin` (`git@github.com:NurHasber/PC-Admin-bot.git`) without waiting to be asked.
+
+- Stage only the files from that change. Do not commit `env.env`, `.env`, tokens, keys, `chat_history.sqlite`, logs, or `.venv`.
+- Write a short commit message about why the change was made.
+- Push the current branch to `origin`. Do not force-push.
+- If the push fails, say so and leave the commit in place.

@@ -1,0 +1,6 @@
+aiogram>=3.13,<4
+cursor-sdk>=1.0.24
+python-dotenv>=1.0
+pystray>=0.19
+Pillow>=10.0
+python-docx>=1.1
